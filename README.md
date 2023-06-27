@@ -4,4 +4,11 @@
 - 💞️ Je cherche à collaborer sur des serveurs populaire.
 
 <!---
-XeroDroid/XeroDroid est un référentiel ✨ spécial ✨
+XeroDroid/XeroDroid est un référentiel ✨ spécial ✨ -->
+
+
+## Statistique
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=XeroDroiD&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=XeroDroiD&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
