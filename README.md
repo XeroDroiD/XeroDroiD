@@ -11,4 +11,4 @@ XeroDroid/XeroDroid est un référentiel ✨ spécial ✨ -->
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=XeroDroiD&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=XeroDroiD&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Technologies](https://github-readme-stats.vercel.app/api/top-langs/?username=XeroDroiD&langs_count=3&theme=tokyonight)](https://findsy.fr)
