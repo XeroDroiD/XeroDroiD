@@ -9,6 +9,8 @@ XeroDroid/XeroDroid est un référentiel ✨ spécial ✨ -->
 
 ## Statistique
 
-[![Mes stats](https://github-readme-stats.vercel.app/api?username=XeroDroiD&show_icons=true&theme=tokyonight)](https://findsy.fr)
+<a href=""><img src="https://komarev.com/ghpvc/?username=XeroDroiD&style=for-the-badge"/></a>
 
-[![Langage utilisé](https://github-readme-stats.vercel.app/api/top-langs/?username=XeroDroiD&langs_count=3&theme=tokyonight)](https://findsy.fr)
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=XeroDroiD&show_icons=true&theme=tokyonight"/></a>
+
+<a href=""><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeroDroiD&langs_count=3&theme=tokyonight"/></a>
