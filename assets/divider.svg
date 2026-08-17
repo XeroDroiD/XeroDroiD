@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="52" viewBox="0 0 1200 52" role="img" aria-label="Animated divider">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset=".22" stop-color="#38BDF8"/>
+      <stop offset=".5" stop-color="#7C3AED"/>
+      <stop offset=".78" stop-color="#00E0A1"/>
+      <stop offset="1" stop-color="#00E0A1" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="90" y="25" width="1020" height="1.5" rx="1" fill="#1E293B"/>
+  <rect x="-230" y="24" width="230" height="3" rx="2" fill="url(#g)">
+    <animate attributeName="x" values="-230;1200" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="600" cy="26" r="3.5" fill="#7C3AED"><animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/></circle>
+</svg>

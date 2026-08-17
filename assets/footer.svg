@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="XeroLe1er footer">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#7C3AED"/><stop offset="1" stop-color="#00E0A1"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="190" rx="26" fill="#020617"/>
+  <path d="M0 135 C180 75 300 170 470 118 S790 78 1200 137 L1200 190 L0 190Z" fill="#071426"/>
+  <path d="M0 145 C190 91 330 177 505 128 S820 90 1200 148" fill="none" stroke="url(#g)" stroke-opacity=".6" stroke-width="2">
+    <animate attributeName="d" values="M0 145 C190 91 330 177 505 128 S820 90 1200 148;M0 148 C180 118 340 81 505 138 S830 170 1200 132;M0 145 C190 91 330 177 505 128 S820 90 1200 148" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <text x="600" y="63" text-anchor="middle" font-family="Consolas,Menlo,monospace" font-size="18" fill="#94A3B8">while (alive) &#123; learn(); build(); improve(); &#125;</text>
+  <text x="600" y="103" text-anchor="middle" font-family="Segoe UI,Arial" font-size="14" font-weight="700" letter-spacing="3" fill="url(#g)" filter="url(#glow)">XEROLE1ER • END OF TRANSMISSION</text>
+</svg>

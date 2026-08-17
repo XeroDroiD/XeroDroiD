@@ -1,253 +1,268 @@
-````md
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║                     X E R O L E 1 E R                               ║
+║              Developer • Infrastructure • Minecraft                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
 <p align="center">
-  <img src="./assets/xerodroid-hero.svg" width="100%" alt="XeroDroiD Terminal Hero"/>
+  <img src="./assets/hero.svg" width="100%" alt="XeroLe1er — Developer, Infrastructure, Minecraft & Web"/>
 </p>
 
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/🇫🇷_FRANÇAIS-7DB7FF?style=for-the-badge&labelColor=0B1220&color=7DB7FF"/>
-  </a>
-  <a href="./README_EN.md">
-    <img src="https://img.shields.io/badge/🇬🇧_ENGLISH-CBD5E1?style=for-the-badge&labelColor=0B1220&color=334155"/>
-  </a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/FRANÇAIS-ACTIF-38BDF8?style=for-the-badge&labelColor=020617" alt="Français"/></a>
+  <a href="./README_EN.md"><img src="https://img.shields.io/badge/ENGLISH-SWITCH-7C3AED?style=for-the-badge&labelColor=020617" alt="English"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=7DB7FF&center=true&vCenter=true&width=950&lines=ssh+xerodroid%40dev:~;%3E+booting+developer+profile...;%3E+java+%7C+javascript+%7C+infra+%7C+minecraft;%3E+build.+break.+fix.+optimize.+repeat." alt="Typing SVG" />
+  <a href="https://github.com/XeroDroiD"><img src="https://img.shields.io/badge/GitHub-@XeroDroiD-FFFFFF?style=flat-square&logo=github&logoColor=white&labelColor=020617&color=334155" alt="GitHub"/></a>
+  <a href="https://findzy.fr"><img src="https://img.shields.io/badge/Findzy-Ecosystem-00E0A1?style=flat-square&labelColor=020617" alt="Findzy"/></a>
+  <img src="https://komarev.com/ghpvc/?username=XeroDroiD&label=PROFILE+VIEWS&style=flat-square&color=38BDF8&labelColor=020617" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/XeroDroiD?style=flat-square&logo=github&label=FOLLOWERS&color=7C3AED&labelColor=020617" alt="Followers"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XeroDroiD&label=VUES&style=for-the-badge&color=7DB7FF&labelColor=0B1220" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/XeroDroiD?style=for-the-badge&logo=github&label=FOLLOWERS&color=22C55E&labelColor=0B1220" alt="GitHub followers"/>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&labelColor=0B1220" alt="Status"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=950&lines=%3E+initialisation+du+profil+XeroLe1er...;%3E+Java+%7C+JavaScript+%7C+TypeScript+%7C+Infrastructure;%3E+Paper+%7C+Purpur+%7C+Velocity+%7C+Docker;%3E+build()+%E2%86%92+ship()+%E2%86%92+improve()+%E2%86%92+repeat()" alt="Typing animation"/>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `root@xerodroid:~$ fastfetch`
-
-```bash
-OS         : Developer Mindset 26.1 LTS
-Host       : XeroDroiD
-User       : @XeroDroiD
-Role       : Développeur / Builder / Infra
-Focus      : Java • JavaScript • Web • Linux • Minecraft
-Mission    : Concevoir des projets solides, utiles et propres
-Philosophy : Build first. Optimize after. Never stop learning.
-````
-
-<div align="center">
-
-```text
-┌───────────────────────────────────────────────────────────────┐
-│                                                               │
-│  Bienvenue sur mon profil GitHub.                             │
-│  Ici tu trouveras du développement, de l'infrastructure,      │
-│  de l'automatisation et beaucoup de projets autour            │
-│  de l'écosystème Minecraft et du web.                         │
-│                                                               │
-└───────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `root@xerodroid:~$ ls technologies/`
+## `01 // IDENTITÉ`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,react,php,mysql,mongodb,redis,docker,linux,debian,nginx,git,github,vscode&theme=dark&perline=9" alt="Tech stack"/>
+  <img src="./assets/terminal.svg" width="100%" alt="XeroLe1er terminal identity"/>
 </p>
 
-<div align="center">
+Je suis **XeroLe1er**, développeur orienté **backend**, **infrastructure**, **web** et **écosystèmes Minecraft**.
 
-### `outils / environnements`
+Ce que j'aime le plus n'est pas simplement écrire une classe ou faire une jolie interface : c'est prendre une idée et construire **tout le système autour** — API, base de données, cache, réseau, conteneurs, déploiement, sécurité, monitoring et expérience utilisateur.
 
-`Java` `JavaScript` `TypeScript` `HTML` `CSS` `PHP`
-`Node.js` `React` `MySQL` `MongoDB` `Redis`
-`Docker` `Linux` `Debian` `Nginx` `Git` `GitHub`
+> **Mon terrain de jeu :** faire communiquer proprement le code, les services et l'infrastructure.
 
-</div>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
----
-
-## `root@xerodroid:~$ tree specialites/ -L 2`
-
-```text
-specialites/
-├── developpement/
-│   ├── backend
-│   ├── applications web
-│   ├── outils internes
-│   ├── automatisation
-│   └── plugins Java
-│
-├── infrastructure/
-│   ├── linux
-│   ├── docker
-│   ├── reverse-proxy
-│   ├── bases-de-donnees
-│   ├── reseaux-prives
-│   └── optimisation
-│
-├── minecraft/
-│   ├── paper
-│   ├── velocity
-│   ├── plugins custom
-│   ├── interfaces avancees
-│   ├── ressources personnalisees
-│   └── architectures multi-serveurs
-│
-└── projets/
-    ├── experimentation
-    ├── build systems
-    ├── hosting
-    └── self-hosted services
-```
-
----
-
-## `root@xerodroid:~$ cat about_me.log`
-
-```yaml
-name: XeroDroiD
-interests:
-  - informatique
-  - développement
-  - infrastructure
-  - hébergement
-  - optimisation
-  - projets Minecraft ambitieux
-
-currently_learning:
-  - Java
-  - JavaScript
-  - architecture de services
-  - optimisation serveurs
-  - automatisation
-
-mindset:
-  - J’aime comprendre comment les choses fonctionnent
-  - J’aime construire des systèmes propres
-  - J’aime autant le code que ce qu’il y a derrière
-  - J’aime transformer une idée en projet concret
-```
-
----
-
-## `root@xerodroid:~$ show --featured-projects`
+## `02 // CE QUE JE CONSTRUIS`
 
 <p align="center">
-  <a href="https://github.com/XeroDroiD/HuskChat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=HuskChat&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=22C55E&text_color=CBD5E1&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/XeroDroiD/XeroMods">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=XeroMods&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=F59E0B&text_color=CBD5E1&bg_color=00000000" />
-  </a>
+  <img src="./assets/focus.svg" width="100%" alt="XeroLe1er core modules"/>
 </p>
-
-<p align="center">
-  <a href="https://github.com/XeroDroiD/Ptero-eggs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=Ptero-eggs&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=22C55E&text_color=CBD5E1&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/XeroDroiD/PlaneInvest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=PlaneInvest&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=F59E0B&text_color=CBD5E1&bg_color=00000000" />
-  </a>
-</p>
-
-<div align="center">
-
-```text
-[NOTE]
-Une partie de mes projets les plus poussés sont privés
-ou intégrés dans des environnements non publics.
-```
-
-</div>
-
----
-
-## `root@xerodroid:~$ monitor --github`
-
-<p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeroDroiD&theme=github_dark" alt="Profile details"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeroDroiD&theme=github_dark" alt="Stats"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XeroDroiD&theme=github_dark" alt="Languages"/>
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeroDroiD&bg_color=0B1220&color=7DB7FF&line=7DB7FF&point=22C55E&area=true&area_color=123B62&hide_border=true&radius=12&custom_title=Journal%20d'activit%C3%A9%20GitHub" alt="GitHub activity graph"/>
-</p>
-
----
-
-## `root@xerodroid:~$ ./snake --contributions`
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</p>
-
----
-
-## `root@xerodroid:~$ journalctl -u currently-building`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `services actifs`
-
-* Développement backend
-* Automatisation de tâches
-* Hébergement / services
-* Interfaces web
-* Plugins & systèmes Minecraft
-* Tests, optimisation et maintenance
+### `// SOFTWARE`
+- Backends et APIs
+- Outils internes et automatisations
+- Applications et interfaces web
+- Plugins Java
+- Intégrations entre services
+- Architecture orientée événements/cache
 
 </td>
 <td width="50%" valign="top">
 
-### `priorités`
+### `// INFRASTRUCTURE`
+- Linux / Debian
+- Docker et services isolés
+- Reverse proxy / Nginx
+- MongoDB / Redis
+- VPN et réseaux privés
+- Proxmox / virtualisation
+- DNS, DHCP et supervision
 
-* Écrire du code plus propre
-* Construire des outils utiles
-* Optimiser les performances
-* Mieux structurer les infrastructures
-* Créer des expériences stylées
-* Faire évoluer chaque projet
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `// MINECRAFT`
+- Paper / Purpur
+- Velocity
+- Plugins et APIs custom
+- Réseaux multi-serveurs
+- ItemsAdder / resource packs
+- Menus et interfaces avancées
+- Optimisation et profiling
+
+</td>
+<td width="50%" valign="top">
+
+### `// PRODUCT`
+- Hébergement et services web
+- Automatisation d'exploitation
+- Expérience utilisateur
+- Outils d'administration
+- Déploiement et maintenance
+- Passage de l'idée au produit
 
 </td>
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `root@xerodroid:~$ exit`
+## `03 // STACK`
 
-<div align="center">
+### Langages & développement
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,react,php,python&theme=dark&perline=9" alt="Languages and development"/>
+</p>
+
+### Data, infrastructure & outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,mysql,docker,linux,debian,nginx,git,github,githubactions,maven,gradle,vscode,idea&theme=dark&perline=7" alt="Infrastructure and tools"/>
+</p>
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   while (alive) {                                            │
-│       learn();                                               │
-│       build();                                               │
-│       break();                                               │
-│       fix();                                                 │
-│       improve();                                             │
-│   }                                                          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+BACKEND      Java • Node.js • APIs • event-driven systems
+FRONTEND     JavaScript • TypeScript • React • HTML • CSS
+DATA         MongoDB • Redis • MySQL
+INFRA        Linux • Docker • Nginx • VPN • Proxmox
+MINECRAFT    Paper • Purpur • Velocity • custom plugins
+TOOLING      Git • GitHub Actions • Maven • Gradle
 ```
 
-<sub>Powered by coffee, ideas, logs and way too many open projects.</sub>
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-</div>
+## `04 // PROJETS ACTUELS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Findzy
+**Écosystème web & hébergement**
+
+Plateforme autour de services numériques, de l'hébergement **Web/VPS** et d'outils en ligne.
+
+[![Findzy](https://img.shields.io/badge/OUVRIR-FINDZY.FR-00E0A1?style=for-the-badge&labelColor=020617)](https://findzy.fr)
+
+`web` `hosting` `VPS` `automation` `operations`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏝️ PlaneSky
+**SkyBlock custom — projet privé**
+
+Écosystème Minecraft avec interfaces personnalisées, plugins, resource pack, menus synchronisés et gameplay custom.
+
+`Java` `Paper` `Velocity` `ItemsAdder` `MiniMessage`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Nexaria
+**Réseau Minecraft — projet privé**
+
+Architecture multi-serveurs, systèmes custom, économie, événements et infrastructure pensée pour évoluer proprement.
+
+`Java` `Velocity` `MongoDB` `Redis` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 R&D / Infrastructure
+**Lab personnel**
+
+Virtualisation, panels de jeux, réseau privé, bases de données, sauvegardes, sécurité, monitoring et automatisations.
+
+`Linux` `Proxmox` `Pelican` `Docker` `VPN`
+
+</td>
+</tr>
+</table>
+
+> Certains de mes projets les plus importants sont **privés** ou déployés directement sur des infrastructures de production. GitHub ne montre donc qu'une partie de ce que je construis.
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `05 // PROJETS PUBLICS & ARCHIVES`
+
+| Projet | Type | Description |
+|---|---|---|
+| [`PlaneInvest`](https://github.com/XeroDroiD/PlaneInvest) | Java / Minecraft | Plugin développé pour PlaneSky |
+| [`ElesiaEconomy`](https://github.com/XeroDroiD/ElesiaEconomy) | Java / Spigot | Ancien plugin d'économie Spigot |
+| [`XeroMods`](https://github.com/XeroDroiD/XeroMods) | Minecraft | Projet historique lié à un serveur privé |
+
+<sub>Les forks et expérimentations externes présents sur mon compte ne sont volontairement pas présentés comme mes créations.</sub>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `06 // GITHUB TELEMETRY`
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeroDroiD&theme=github_dark" alt="GitHub profile details"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeroDroiD&theme=github_dark" alt="GitHub stats"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XeroDroiD&theme=github_dark" alt="Most commit language"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeroDroiD&bg_color=020617&color=BAE6FD&line=38BDF8&point=00E0A1&area=true&area_color=172554&hide_border=true&radius=12&custom_title=XeroLe1er%20%E2%80%A2%20Contribution%20Activity" alt="GitHub activity graph"/>
+</p>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `07 // CONTRIBUTION SNAKE`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake.svg"/>
+    <img width="100%" alt="XeroLe1er contribution snake" src="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+<sub>Le workflow inclus dans ce pack régénère automatiquement cette animation.</sub>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `08 // PHILOSOPHIE`
+
+```java
+public final class XeroLe1er {
+
+    private final String mindset = "Comprendre avant d'abstraire.";
+
+    public void build() {
+        while (true) {
+            learn();
+            design();
+            code();
+            test();
+            breakThings();
+            fixThem();
+            optimize();
+            ship();
+        }
+    }
+}
 ```
+
+```text
+Je préfère un système compréhensible, observable et maintenable
+à une pile de magie impossible à déboguer à 03:00.
+```
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## `09 // COLLABORATION`
+
+Je suis particulièrement intéressé par les projets qui demandent de **construire réellement quelque chose** : architecture backend, infrastructure, outils, plateformes web, serveurs Minecraft ou automatisations.
+
+<p align="center">
+  <a href="https://github.com/XeroDroiD"><img src="https://img.shields.io/badge/VOIR-MON_GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=020617"/></a>
+  <a href="https://findzy.fr"><img src="https://img.shields.io/badge/DÉCOUVRIR-FINDZY-00E0A1?style=for-the-badge&labelColor=020617"/></a>
+</p>
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="XeroLe1er end of transmission"/>
+</p>
