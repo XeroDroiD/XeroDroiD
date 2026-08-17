@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇫🇷_FRANÇAIS-7DB7FF?style=for-the-badge&labelColor=0D1117"/></a>
-  <a href="./README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_ENGLISH-FFFFFF?style=for-the-badge&labelColor=0D1117"/></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇫🇷_FRANÇAIS-FFFFFF?style=for-the-badge&labelColor=0D1117"/></a>
+  <a href="./README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_ENGLISH-7DB7FF?style=for-the-badge&labelColor=0D1117"/></a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=7DB7FF&center=true&vCenter=true&width=920&lines=D%C3%A9veloppeur+%E2%80%A2+Infrastructure+%E2%80%A2+Minecraft;Java+%E2%80%A2+JavaScript+%E2%80%A2+Web+%E2%80%A2+Docker;Je+construis%2C+j%27automatise%2C+j%27optimise.;Toujours+un+projet+de+plus+%C3%A0+faire+%F0%9F%9A%80"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=7DB7FF&center=true&vCenter=true&width=920&lines=Developer+%E2%80%A2+Infrastructure+%E2%80%A2+Minecraft;Java+%E2%80%A2+JavaScript+%E2%80%A2+Web+%E2%80%A2+Docker;I+build%2C+automate+and+optimize.;Always+one+more+project+to+build+%F0%9F%9A%80"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XeroDroiD&label=VUES&color=7DB7FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=XeroDroiD&label=VIEWS&color=7DB7FF&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/XeroDroiD?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=2ECC71&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/STATUS-EN%20CONSTRUCTION-FFB347?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-FFB347?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 ---
@@ -25,26 +25,26 @@
 
 ```yaml
 pseudo: XeroDroiD
-profil: Développeur & passionné d'infrastructure
+profile: Developer & infrastructure enthusiast
 
-domaines:
-  - Développement backend
-  - Développement web
-  - Plugins & serveurs Minecraft
-  - Infrastructure Linux / Docker
-  - Hébergement & automatisation
+fields:
+  - Backend development
+  - Web development
+  - Minecraft plugins & servers
+  - Linux / Docker infrastructure
+  - Hosting & automation
 
-actuellement:
+currently:
   - Java
   - JavaScript
-  - Réseaux & systèmes
-  - Architecture de services
-  - Optimisation de serveurs
+  - Networks & systems
+  - Service architecture
+  - Server optimization
 
-objectif: "Créer des projets utiles, propres et capables de tenir en production."
+goal: "Build useful, clean projects that can actually run in production."
 ```
 
-Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, réseau, sécurité, bases de données, reverse proxy, conteneurs, monitoring et automatisation.
+I work on both **code** and everything behind it: deployment, networking, security, databases, reverse proxies, containers, monitoring and automation.
 
 ---
 
@@ -54,7 +54,7 @@ Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, r�
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,react,mysql,mongodb,redis,docker,linux,debian,nginx,git,github,vscode&theme=dark&perline=9"/>
 </p>
 
-### ⚙️ Ce que j'utilise régulièrement
+### ⚙️ What I regularly use
 
 `Java` • `JavaScript` • `TypeScript` • `HTML/CSS` • `Node.js` • `React`  
 `MySQL` • `MongoDB` • `Redis` • `Docker` • `Linux` • `Debian` • `Nginx`  
@@ -68,24 +68,24 @@ Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, r�
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Développement
-- Applications et services backend
-- APIs et automatisations
-- Interfaces web modernes
-- Plugins Java
-- Intégrations entre services
-- Outils internes et systèmes sur mesure
+### 💻 Development
+- Backend applications & services
+- APIs & automation
+- Modern web interfaces
+- Java plugins
+- Service integrations
+- Internal tools & custom systems
 
 </td>
 <td width="50%" valign="top">
 
 ### 🖥️ Infrastructure
 - Linux / Debian
-- Docker & réseaux privés
+- Docker & private networks
 - Reverse proxy
 - MongoDB / Redis / SQL
-- Hébergement de services
-- Sécurisation & optimisation
+- Service hosting
+- Security & optimization
 
 </td>
 </tr>
@@ -94,22 +94,22 @@ Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, r�
 
 ### ⛏️ Minecraft
 - Paper / Velocity
-- Plugins Java personnalisés
-- Menus & interfaces avancées
-- Items / ressources custom
-- Optimisation serveur
-- Architectures multi-serveurs
+- Java plugins personnalisés
+- Advanced menus & interfaces
+- Custom items / resources
+- Server optimization
+- Multi-server architectures
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Entrepreneuriat
-- Développement de **Findzy**
-- Hébergement et services web
-- Infrastructure self-hosted
-- Dépannage & intégration
-- Automatisation de services
-- Expérimentation constante
+### 🚀 Entrepreneurship
+- Building **Findzy**
+- Hosting & web services
+- Self-hosted infrastructure
+- Troubleshooting & integration
+- Service automation
+- Constant experimentation
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, r�
   </a>
 </p>
 
-> Certains de mes projets les plus importants sont privés ou développés pour des infrastructures/serveurs qui ne publient pas leur code.
+> Some of my most important projects are private or built for infrastructures/servers that do not publish their source code.
 
 ---
 
@@ -153,7 +153,7 @@ Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, r�
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeroDroiD&bg_color=0D1117&color=7DB7FF&line=7DB7FF&point=2ECC71&area=true&area_color=123B62&hide_border=true&radius=10&custom_title=Activit%C3%A9%20GitHub"/>
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeroDroiD&bg_color=0D1117&color=7DB7FF&line=7DB7FF&point=2ECC71&area=true&area_color=123B62&hide_border=true&radius=10&custom_title=GitHub%20Activity"/>
 </p>
 
 ---
@@ -164,7 +164,7 @@ Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, r�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake.svg"/>
-  <img alt="Animation des contributions GitHub" src="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake.svg"/>
 </picture>
 </p>
 
@@ -173,12 +173,12 @@ Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, r�
 ## `> collaboration --status`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/COLLABORATIONS-OUVERTES-2ECC71?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/COLLABORATIONS-OPEN-2ECC71?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
-Je suis intéressé par les projets où il y a **un vrai défi technique** : serveur à grande échelle, backend, outils internes, automatisation, infrastructure ou projet Minecraft ambitieux.
+I'm interested in projects with **a real technical challenge**: large-scale servers, backend systems, internal tools, automation, infrastructure or ambitious Minecraft projects.
 
-Je préfère construire quelque chose de **solide et maintenable** plutôt que simplement empiler des fonctionnalités.
+I prefer building something **solid and maintainable** instead of simply stacking features.
 
 ---
 
@@ -187,7 +187,7 @@ Je préfère construire quelque chose de **solide et maintenable** plutôt que s
 ```text
 ┌───────────────────────────────────────────────────────────────────┐
 │                                                                   │
-│   Une idée → un prototype → des bugs → des correctifs → mieux.   │
+│   An idea → a prototype → bugs → fixes → better.   │
 │                                                                   │
 │        CODE • TEST • BREAK • FIX • OPTIMIZE • SHIP               │
 │                                                                   │
@@ -199,5 +199,5 @@ Je préfère construire quelque chose de **solide et maintenable** plutôt que s
 </p>
 
 <p align="center">
-  <sub>Conçu avec beaucoup trop de projets ouverts en même temps.</sub>
+  <sub>Built with way too many projects open at the same time.</sub>
 </p>
