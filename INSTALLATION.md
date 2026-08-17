@@ -1,96 +1,115 @@
-# Installation — Profil GitHub XeroLe1er
+# Installation — XeroLe1er GitHub Profile
 
-Ce pack est prévu pour le repository de profil :
+Cette version ne contient **aucune image custom**.
+
+Tout le visuel repose sur des projets/services existants :
+
+- Capsule Render — vagues, headers, footer et transitions
+- Readme Typing SVG — texte animé
+- Shields.io — badges
+- Skill Icons — stack
+- GitHub Profile Summary Cards — statistiques animées
+- GitHub Readme Streak Stats — séries de contributions
+- GitHub Profile Trophy — trophées
+- GitHub Readme Activity Graph — activité
+- Platane/snk — snake des contributions
+- GitHub Profile 3D Contrib — calendrier 3D
+
+## Fichiers
+
+```text
+XeroLe1er-GitHub-Profile-NoCustom/
+├── README.md
+├── README_EN.md
+├── INSTALLATION.md
+├── conf/
+│   └── github-profile-3d-contrib.json
+└── .github/
+    └── workflows/
+        ├── profile-3d.yml
+        └── snake.yml
+```
+
+## Installation
+
+Copie simplement le **contenu** du dossier à la racine de :
 
 ```text
 XeroDroiD/XeroDroiD
 ```
 
-Le **nom affiché** est `XeroLe1er`.  
-Le login GitHub reste `XeroDroiD`, donc certaines URLs techniques contiennent obligatoirement `XeroDroiD`.
+Puis commit/push sur `main`.
 
-## Structure
+## Actions à lancer une première fois
+
+Dans l'onglet **Actions** du repository :
+
+1. Lance `Generate contribution snake`.
+2. Lance `Generate 3D contribution calendar`.
+
+Le premier crée la branche :
 
 ```text
-XeroLe1er-GitHub-Profile/
-├── README.md
-├── README_EN.md
-├── INSTALLATION.md
-├── PROFILE_CONFIG.md
-├── assets/
-│   ├── hero.svg
-│   ├── terminal.svg
-│   ├── focus.svg
-│   ├── divider.svg
-│   └── footer.svg
-└── .github/
-    └── workflows/
-        └── snake.yml
+output
 ```
 
-## Installation rapide
-
-1. Ouvre le repository `XeroDroiD/XeroDroiD`.
-2. Copie **tout le contenu du dossier** à la racine du repository.
-3. Remplace l'ancien `README.md`.
-4. Commit/push sur la branche `main`.
-5. Ouvre l'onglet **Actions**.
-6. Lance manuellement **Generate contribution snake** une première fois.
-7. Après la création de la branche `output`, recharge ton profil.
-
-## Si le workflow Snake ne peut pas publier
-
-Dans le repository :
+Le second crée :
 
 ```text
-Settings
+output-3d-contrib
+```
+
+Après ça, le snake et le calendrier 3D apparaissent dans le README.
+
+## Permissions
+
+Si une Action obtient une erreur d'écriture :
+
+```text
+Repository
+→ Settings
 → Actions
 → General
 → Workflow permissions
+→ Read and write permissions
 ```
 
-Vérifie que GitHub Actions est autorisé à écrire dans le repository.
-
-Le workflow demande déjà :
+Les deux workflows contiennent déjà :
 
 ```yaml
 permissions:
   contents: write
 ```
 
-## Langues
+## FR / EN
 
-GitHub ne permet pas d'exécuter du JavaScript interactif dans un README.
-
-Le sélecteur FR/EN est donc fait proprement avec deux documents :
-
-- `README.md` → Français
-- `README_EN.md` → English
+- `README.md` = français par défaut
+- `README_EN.md` = anglais
 
 Les boutons en haut permettent de passer de l'un à l'autre.
 
-## Animations
+## Important concernant le nom
 
-Les animations principales sont locales :
+Le nom affiché est :
 
-- `assets/hero.svg`
-- `assets/terminal.svg`
-- `assets/focus.svg`
-- `assets/divider.svg`
-- `assets/footer.svg`
+```text
+XeroLe1er
+```
 
-Elles utilisent du SVG/SMIL et sont directement versionnées avec le profil.
+Le login GitHub utilisé dans les URLs dynamiques reste :
 
-## Services externes utilisés
+```text
+XeroDroiD
+```
 
-Le README utilise aussi quelques services uniquement pour les données dynamiques :
+tant que le compte GitHub n'est pas renommé.
 
-- `shields.io` — badges
-- `komarev.com` — compteur de vues
-- `skillicons.dev` — icônes technos
-- `github-profile-summary-cards.vercel.app` — statistiques
-- `github-readme-activity-graph.vercel.app` — graphe d'activité
-- `readme-typing-svg.demolab.com` — texte animé
-- `Platane/snk` — génération du Snake via GitHub Actions
+## Ancienne version
 
-Même si l'un de ces services tombe temporairement, les assets principaux du profil restent affichés.
+Si tu avais copié la version précédente, tu peux supprimer entièrement :
+
+```text
+assets/
+```
+
+Elle n'est plus utilisée dans cette version.
