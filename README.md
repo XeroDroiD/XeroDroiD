@@ -1,115 +1,227 @@
+````md
 <p align="center">
-  <img src="./assets/xerodroid-hero.svg" width="100%" alt="XeroDroiD"/>
+  <img src="./assets/xerodroid-hero.svg" width="100%" alt="XeroDroiD Terminal Hero"/>
 </p>
 
 <p align="center">
-  <a href="./README.md"><img src="https://img.shields.io/badge/🇫🇷_FRANÇAIS-7DB7FF?style=for-the-badge&labelColor=0D1117"/></a>
-  <a href="./README_EN.md"><img src="https://img.shields.io/badge/🇬🇧_ENGLISH-FFFFFF?style=for-the-badge&labelColor=0D1117"/></a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=850&color=7DB7FF&center=true&vCenter=true&width=920&lines=D%C3%A9veloppeur+%E2%80%A2+Infrastructure+%E2%80%A2+Minecraft;Java+%E2%80%A2+JavaScript+%E2%80%A2+Web+%E2%80%A2+Docker;Je+construis%2C+j%27automatise%2C+j%27optimise.;Toujours+un+projet+de+plus+%C3%A0+faire+%F0%9F%9A%80"/>
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/🇫🇷_FRANÇAIS-7DB7FF?style=for-the-badge&labelColor=0B1220&color=7DB7FF"/>
+  </a>
+  <a href="./README_EN.md">
+    <img src="https://img.shields.io/badge/🇬🇧_ENGLISH-CBD5E1?style=for-the-badge&labelColor=0B1220&color=334155"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XeroDroiD&label=VUES&color=7DB7FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/XeroDroiD?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=2ECC71&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/STATUS-EN%20CONSTRUCTION-FFB347?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2400&pause=700&color=7DB7FF&center=true&vCenter=true&width=950&lines=ssh+xerodroid%40dev:~;%3E+booting+developer+profile...;%3E+java+%7C+javascript+%7C+infra+%7C+minecraft;%3E+build.+break.+fix.+optimize.+repeat." alt="Typing SVG" />
 </p>
-
----
-
-## `> whoami`
-
-```yaml
-pseudo: XeroDroiD
-profil: Développeur & passionné d'infrastructure
-
-domaines:
-  - Développement backend
-  - Développement web
-  - Plugins & serveurs Minecraft
-  - Infrastructure Linux / Docker
-  - Hébergement & automatisation
-
-actuellement:
-  - Java
-  - JavaScript
-  - Réseaux & systèmes
-  - Architecture de services
-  - Optimisation de serveurs
-
-objectif: "Créer des projets utiles, propres et capables de tenir en production."
-```
-
-Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, réseau, sécurité, bases de données, reverse proxy, conteneurs, monitoring et automatisation.
-
----
-
-## `> stack --load`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,react,mysql,mongodb,redis,docker,linux,debian,nginx,git,github,vscode&theme=dark&perline=9"/>
+  <img src="https://komarev.com/ghpvc/?username=XeroDroiD&label=VUES&style=for-the-badge&color=7DB7FF&labelColor=0B1220" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/XeroDroiD?style=for-the-badge&logo=github&label=FOLLOWERS&color=22C55E&labelColor=0B1220" alt="GitHub followers"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&labelColor=0B1220" alt="Status"/>
 </p>
-
-### ⚙️ Ce que j'utilise régulièrement
-
-`Java` • `JavaScript` • `TypeScript` • `HTML/CSS` • `Node.js` • `React`  
-`MySQL` • `MongoDB` • `Redis` • `Docker` • `Linux` • `Debian` • `Nginx`  
-`Git` • `GitHub Actions` • `Velocity` • `Paper` • `Pelican/Pterodactyl`
 
 ---
 
-## `> focus --current`
+## `root@xerodroid:~$ fastfetch`
+
+```bash
+OS         : Developer Mindset 26.1 LTS
+Host       : XeroDroiD
+User       : @XeroDroiD
+Role       : Développeur / Builder / Infra
+Focus      : Java • JavaScript • Web • Linux • Minecraft
+Mission    : Concevoir des projets solides, utiles et propres
+Philosophy : Build first. Optimize after. Never stop learning.
+````
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│  Bienvenue sur mon profil GitHub.                             │
+│  Ici tu trouveras du développement, de l'infrastructure,      │
+│  de l'automatisation et beaucoup de projets autour            │
+│  de l'écosystème Minecraft et du web.                         │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## `root@xerodroid:~$ ls technologies/`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nodejs,react,php,mysql,mongodb,redis,docker,linux,debian,nginx,git,github,vscode&theme=dark&perline=9" alt="Tech stack"/>
+</p>
+
+<div align="center">
+
+### `outils / environnements`
+
+`Java` `JavaScript` `TypeScript` `HTML` `CSS` `PHP`
+`Node.js` `React` `MySQL` `MongoDB` `Redis`
+`Docker` `Linux` `Debian` `Nginx` `Git` `GitHub`
+
+</div>
+
+---
+
+## `root@xerodroid:~$ tree specialites/ -L 2`
+
+```text
+specialites/
+├── developpement/
+│   ├── backend
+│   ├── applications web
+│   ├── outils internes
+│   ├── automatisation
+│   └── plugins Java
+│
+├── infrastructure/
+│   ├── linux
+│   ├── docker
+│   ├── reverse-proxy
+│   ├── bases-de-donnees
+│   ├── reseaux-prives
+│   └── optimisation
+│
+├── minecraft/
+│   ├── paper
+│   ├── velocity
+│   ├── plugins custom
+│   ├── interfaces avancees
+│   ├── ressources personnalisees
+│   └── architectures multi-serveurs
+│
+└── projets/
+    ├── experimentation
+    ├── build systems
+    ├── hosting
+    └── self-hosted services
+```
+
+---
+
+## `root@xerodroid:~$ cat about_me.log`
+
+```yaml
+name: XeroDroiD
+interests:
+  - informatique
+  - développement
+  - infrastructure
+  - hébergement
+  - optimisation
+  - projets Minecraft ambitieux
+
+currently_learning:
+  - Java
+  - JavaScript
+  - architecture de services
+  - optimisation serveurs
+  - automatisation
+
+mindset:
+  - J’aime comprendre comment les choses fonctionnent
+  - J’aime construire des systèmes propres
+  - J’aime autant le code que ce qu’il y a derrière
+  - J’aime transformer une idée en projet concret
+```
+
+---
+
+## `root@xerodroid:~$ show --featured-projects`
+
+<p align="center">
+  <a href="https://github.com/XeroDroiD/HuskChat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=HuskChat&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=22C55E&text_color=CBD5E1&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/XeroDroiD/XeroMods">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=XeroMods&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=F59E0B&text_color=CBD5E1&bg_color=00000000" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/XeroDroiD/Ptero-eggs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=Ptero-eggs&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=22C55E&text_color=CBD5E1&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/XeroDroiD/PlaneInvest">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=PlaneInvest&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=F59E0B&text_color=CBD5E1&bg_color=00000000" />
+  </a>
+</p>
+
+<div align="center">
+
+```text
+[NOTE]
+Une partie de mes projets les plus poussés sont privés
+ou intégrés dans des environnements non publics.
+```
+
+</div>
+
+---
+
+## `root@xerodroid:~$ monitor --github`
+
+<p align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeroDroiD&theme=github_dark" alt="Profile details"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeroDroiD&theme=github_dark" alt="Stats"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XeroDroiD&theme=github_dark" alt="Languages"/>
+</p>
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeroDroiD&bg_color=0B1220&color=7DB7FF&line=7DB7FF&point=22C55E&area=true&area_color=123B62&hide_border=true&radius=12&custom_title=Journal%20d'activit%C3%A9%20GitHub" alt="GitHub activity graph"/>
+</p>
+
+---
+
+## `root@xerodroid:~$ ./snake --contributions`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## `root@xerodroid:~$ journalctl -u currently-building`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Développement
-- Applications et services backend
-- APIs et automatisations
-- Interfaces web modernes
-- Plugins Java
-- Intégrations entre services
-- Outils internes et systèmes sur mesure
+### `services actifs`
+
+* Développement backend
+* Automatisation de tâches
+* Hébergement / services
+* Interfaces web
+* Plugins & systèmes Minecraft
+* Tests, optimisation et maintenance
 
 </td>
 <td width="50%" valign="top">
 
-### 🖥️ Infrastructure
-- Linux / Debian
-- Docker & réseaux privés
-- Reverse proxy
-- MongoDB / Redis / SQL
-- Hébergement de services
-- Sécurisation & optimisation
+### `priorités`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⛏️ Minecraft
-- Paper / Velocity
-- Plugins Java personnalisés
-- Menus & interfaces avancées
-- Items / ressources custom
-- Optimisation serveur
-- Architectures multi-serveurs
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 Entrepreneuriat
-- Développement de **Findzy**
-- Hébergement et services web
-- Infrastructure self-hosted
-- Dépannage & intégration
-- Automatisation de services
-- Expérimentation constante
+* Écrire du code plus propre
+* Construire des outils utiles
+* Optimiser les performances
+* Mieux structurer les infrastructures
+* Créer des expériences stylées
+* Faire évoluer chaque projet
 
 </td>
 </tr>
@@ -117,87 +229,25 @@ Je touche aussi bien au **code** qu'à ce qu'il y a derrière : déploiement, r�
 
 ---
 
-## `> projects --featured`
+## `root@xerodroid:~$ exit`
 
-<p align="center">
-  <a href="https://github.com/XeroDroiD/HuskChat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=HuskChat&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=2ECC71&text_color=C9D1D9&bg_color=00000000"/>
-  </a>
-  <a href="https://github.com/XeroDroiD/XeroMods">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=XeroMods&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=FFB347&text_color=C9D1D9&bg_color=00000000"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/XeroDroiD/PlaneInvest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=PlaneInvest&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=2ECC71&text_color=C9D1D9&bg_color=00000000"/>
-  </a>
-  <a href="https://github.com/XeroDroiD/Ptero-eggs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=XeroDroiD&repo=Ptero-eggs&theme=transparent&hide_border=true&title_color=7DB7FF&icon_color=FFB347&text_color=C9D1D9&bg_color=00000000"/>
-  </a>
-</p>
-
-> Certains de mes projets les plus importants sont privés ou développés pour des infrastructures/serveurs qui ne publient pas leur code.
-
----
-
-## `> github --stats`
-
-<p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=XeroDroiD&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XeroDroiD&theme=github_dark"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XeroDroiD&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeroDroiD&bg_color=0D1117&color=7DB7FF&line=7DB7FF&point=2ECC71&area=true&area_color=123B62&hide_border=true&radius=10&custom_title=Activit%C3%A9%20GitHub"/>
-</p>
-
----
-
-## `> contribution --snake`
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake.svg"/>
-  <img alt="Animation des contributions GitHub" src="https://raw.githubusercontent.com/XeroDroiD/XeroDroiD/output/github-contribution-grid-snake.svg"/>
-</picture>
-</p>
-
----
-
-## `> collaboration --status`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/COLLABORATIONS-OUVERTES-2ECC71?style=for-the-badge&labelColor=0D1117"/>
-</p>
-
-Je suis intéressé par les projets où il y a **un vrai défi technique** : serveur à grande échelle, backend, outils internes, automatisation, infrastructure ou projet Minecraft ambitieux.
-
-Je préfère construire quelque chose de **solide et maintenable** plutôt que simplement empiler des fonctionnalités.
-
----
-
-## `> philosophy`
+<div align="center">
 
 ```text
-┌───────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   Une idée → un prototype → des bugs → des correctifs → mieux.   │
-│                                                                   │
-│        CODE • TEST • BREAK • FIX • OPTIMIZE • SHIP               │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   while (alive) {                                            │
+│       learn();                                               │
+│       build();                                               │
+│       break();                                               │
+│       fix();                                                 │
+│       improve();                                             │
+│   }                                                          │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-<p align="center">
-  <code>while (alive) { learn(); build(); improve(); }</code>
-</p>
+<sub>Powered by coffee, ideas, logs and way too many open projects.</sub>
 
-<p align="center">
-  <sub>Conçu avec beaucoup trop de projets ouverts en même temps.</sub>
-</p>
+</div>
+```
